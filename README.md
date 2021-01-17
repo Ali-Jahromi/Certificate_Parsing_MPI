@@ -1,5 +1,5 @@
 # Parsing Certificates using Openssl and MPI
-Parsing X.509 Certificates using Openssl library and message passing interface (MPI).
+Parsing X.509 Certificates using Openssl library and Message Passing Interface (MPI).
 
 ### Required Packages:
 * libopenmpi-dev
