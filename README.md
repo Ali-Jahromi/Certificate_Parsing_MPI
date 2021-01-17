@@ -13,4 +13,6 @@ mpirun -np <#processors(4)> execfile file  //Run
 
 
 ## TODO
-* Reading multiple certificates from a single file
+* Reading multiple certificates from each file
+* Extracting other certificate parameters from certificates
+* Write the extracted parameters in output files
