@@ -17,6 +17,6 @@ mpirun -np <#processors(4)> execfile file  //Run
 * Extracting other certificate parameters from certificates
 * Write the extracted parameters in output files
 * Write a function for certificate parsing to be used multiple times
-* Cleaning up the code
+* defining Functions to have a clean code
 ------
 Licenced under [MIT Licence](LICENSE).
